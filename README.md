@@ -13,15 +13,6 @@ Finally do **Fm = (N×LUT\[D])>> 24;,**
 ### **Operations:**
 
 
-
-
-
-
-
-
-
-
-
 **Learnings/Challenges:(Put some of these in synth checklist)-check reset in all blocks 1 or 0**
 
 1. If the design is large, break it into smaller parts and write the algorithm in a concise, step-by-step manner. I found it helpful to first think through a rough layout in my mind, then quickly write it down on paper and verify it using AI debugging support.
